@@ -1,4 +1,4 @@
 public class Main {
-    ///////ana are mango
+    ///////ana are struguri
     //ok
 }
